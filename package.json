@@ -28,7 +28,7 @@
   "author": "Alberto Souza <contato@albertosouza.net>",
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "6.26.0",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "broccoli-asset-rev": "2.6.0",
     "ember-ajax": "3.0.0",
     "ember-bootstrap": "1.0.0",
